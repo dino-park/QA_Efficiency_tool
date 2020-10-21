@@ -1,0 +1,2614 @@
+﻿{
+    "data": [
+        {
+            "type": "inAppPurchases",
+            "id": "076d2796-c381-8d0c-5d1b-782c150878aa",
+            "attributes": {
+                "referenceName": "다이아 5개",
+                "productId": "nanakr_dia_4tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/076d2796-c381-8d0c-5d1b-782c150878aa"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "76260f25-9e20-c7d3-1956-008d254b9b65",
+            "attributes": {
+                "referenceName": "다이아 10+2개",
+                "productId": "nanakr_dia_8tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/76260f25-9e20-c7d3-1956-008d254b9b65"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bf3f6657-d0c3-41a5-0c45-24a8f9ee632b",
+            "attributes": {
+                "referenceName": "다이아 30+9개",
+                "productId": "nanakr_dia_20tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bf3f6657-d0c3-41a5-0c45-24a8f9ee632b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "65648c9f-2285-db13-7656-82aa47bb3295",
+            "attributes": {
+                "referenceName": "다이아 50+20개",
+                "productId": "nanakr_dia_40tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/65648c9f-2285-db13-7656-82aa47bb3295"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bf68647d-941b-6b33-ee74-40417bf8dc05",
+            "attributes": {
+                "referenceName": "다이아 102+51개",
+                "productId": "nanakr_dia_56tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bf68647d-941b-6b33-ee74-40417bf8dc05"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "83d0c768-7d9b-5df5-a290-105e6d216fd7",
+            "attributes": {
+                "referenceName": "주정액 패키지",
+                "productId": "nanakr_attendance_001",
+                "inAppPurchaseType": "NON_RENEWING_SUBSCRIPTION",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/83d0c768-7d9b-5df5-a290-105e6d216fd7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5d64668f-4b88-9d94-d797-1b4489403f50",
+            "attributes": {
+                "referenceName": "월정액 패키지",
+                "productId": "nanakr_attendance_002",
+                "inAppPurchaseType": "NON_RENEWING_SUBSCRIPTION",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5d64668f-4b88-9d94-d797-1b4489403f50"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "91432145-bdca-32d7-69fa-4ab841ceba31",
+            "attributes": {
+                "referenceName": "플레이어 RANK UP 패키지 Ⅰ",
+                "productId": "nanakr_levelup_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/91432145-bdca-32d7-69fa-4ab841ceba31"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b93e6356-86ed-d572-f81f-fbdfebdd3bc0",
+            "attributes": {
+                "referenceName": "플레이어 RANK UP 패키지 Ⅱ",
+                "productId": "nanakr_levelup_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b93e6356-86ed-d572-f81f-fbdfebdd3bc0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "0543fb0e-3d7a-2e54-5bf5-6e10d7b12e27",
+            "attributes": {
+                "referenceName": "플레이어 RANK UP 패키지 Ⅲ",
+                "productId": "nanakr_levelup_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/0543fb0e-3d7a-2e54-5bf5-6e10d7b12e27"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "57b92942-8682-68e3-c68f-f0c3f3ff83c1",
+            "attributes": {
+                "referenceName": "생명 장비 패키지",
+                "productId": "nanakr_normal_tier10_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/57b92942-8682-68e3-c68f-f0c3f3ff83c1"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d82e0a0c-fff2-7fe3-019e-78eef80cc47a",
+            "attributes": {
+                "referenceName": "집중 장비 패키지",
+                "productId": "nanakr_normal_tier10_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d82e0a0c-fff2-7fe3-019e-78eef80cc47a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "99278bd3-7cce-05ce-6c86-c50ba03640cc",
+            "attributes": {
+                "referenceName": "스타터 패키지",
+                "productId": "nanakr_normal_tier10_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/99278bd3-7cce-05ce-6c86-c50ba03640cc"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "954d9929-e0cc-5f33-6cef-ad8656e50915",
+            "attributes": {
+                "referenceName": "초월 골드 패키지",
+                "productId": "nanakr_normal_tier10_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/954d9929-e0cc-5f33-6cef-ad8656e50915"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d5872e93-e27c-6e83-482b-1b397b74a636",
+            "attributes": {
+                "referenceName": "장비 각인 패키지 II",
+                "productId": "nanakr_normal_tier20_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d5872e93-e27c-6e83-482b-1b397b74a636"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ba95a44d-589c-d9ea-da5f-596d4d848f00",
+            "attributes": {
+                "referenceName": "심안 장비 패키지",
+                "productId": "nanakr_normal_tier20_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ba95a44d-589c-d9ea-da5f-596d4d848f00"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "259f42ca-1e93-98d7-d886-925e8b712be3",
+            "attributes": {
+                "referenceName": "회복 장비 패키지",
+                "productId": "nanakr_normal_tier20_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/259f42ca-1e93-98d7-d886-925e8b712be3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "91eb0c0f-fa67-a180-1832-9d0a325a0762",
+            "attributes": {
+                "referenceName": "영웅 강화 패키지",
+                "productId": "nanakr_normal_tier20_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/91eb0c0f-fa67-a180-1832-9d0a325a0762"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4b3f5769-dde2-4bb9-436f-2c7bfafec333",
+            "attributes": {
+                "referenceName": "블랙스미스 패키지",
+                "productId": "nanakr_normal_tier20_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4b3f5769-dde2-4bb9-436f-2c7bfafec333"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "18d99362-e846-21ed-b744-11295d146f67",
+            "attributes": {
+                "referenceName": "영웅진화 패키지",
+                "productId": "nanakr_normal_tier30_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/18d99362-e846-21ed-b744-11295d146f67"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "dec864a6-1c26-0c36-af1c-70ad1c6d437a",
+            "attributes": {
+                "referenceName": "영웅 패키지",
+                "productId": "nanakr_normal_tier30_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/dec864a6-1c26-0c36-af1c-70ad1c6d437a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bb57af58-51b8-8ce2-6ca0-567b00bea897",
+            "attributes": {
+                "referenceName": "장비각성 패키지",
+                "productId": "nanakr_normal_tier30_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bb57af58-51b8-8ce2-6ca0-567b00bea897"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5161a1e8-90ea-6bfa-b39c-766f52f015b4",
+            "attributes": {
+                "referenceName": "RANK UP 패키지 Ⅵ",
+                "productId": "nanakr_normal_tier30_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5161a1e8-90ea-6bfa-b39c-766f52f015b4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "50a81998-6b31-f18a-df94-407c6a49e701",
+            "attributes": {
+                "referenceName": "생애 두번째 패키지",
+                "productId": "nanakr_normal_tier30_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/50a81998-6b31-f18a-df94-407c6a49e701"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "c9414803-2ee5-53ac-9cef-d2cb55c29118",
+            "attributes": {
+                "referenceName": "체력진화 패키지",
+                "productId": "nanakr_normal_tier50_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/c9414803-2ee5-53ac-9cef-d2cb55c29118"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "38984cf8-e1d0-7cd3-2e34-7dc1afdb2ec2",
+            "attributes": {
+                "referenceName": "속력진화 패키지",
+                "productId": "nanakr_normal_tier50_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/38984cf8-e1d0-7cd3-2e34-7dc1afdb2ec2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "fe6baff3-5ded-abab-e21f-3e2ad7eb9def",
+            "attributes": {
+                "referenceName": "맹공 장비 패키지SSR",
+                "productId": "nanakr_normal_tier50_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/fe6baff3-5ded-abab-e21f-3e2ad7eb9def"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3a0fa609-4677-1763-6da0-a073d15e67ca",
+            "attributes": {
+                "referenceName": "철벽 장비 패키지SSR",
+                "productId": "nanakr_normal_tier50_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3a0fa609-4677-1763-6da0-a073d15e67ca"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9a1f1022-522d-8a78-389c-ad8aab86ec0e",
+            "attributes": {
+                "referenceName": "프로모션 패키지",
+                "productId": "nanakr_normal_4tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9a1f1022-522d-8a78-389c-ad8aab86ec0e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "fb3df916-c15a-a55a-ad58-b96f63ce883b",
+            "attributes": {
+                "referenceName": "맹공 장비 패키지",
+                "productId": "nanakr_normal_4tier_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/fb3df916-c15a-a55a-ad58-b96f63ce883b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "267d0862-6331-687f-eddb-785a7b1d4a6a",
+            "attributes": {
+                "referenceName": "철벽 장비 패키지",
+                "productId": "nanakr_normal_4tier_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/267d0862-6331-687f-eddb-785a7b1d4a6a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4f5ec76f-eac3-5cf1-5272-0cb77507a4f3",
+            "attributes": {
+                "referenceName": "프로모션 패키지 II",
+                "productId": "nanakr_normal_4tier_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4f5ec76f-eac3-5cf1-5272-0cb77507a4f3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9f59adc2-c75e-75a1-38f2-5f406413175b",
+            "attributes": {
+                "referenceName": "싸움축제 루키 패키지",
+                "productId": "nanakr_normal_4tier_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9f59adc2-c75e-75a1-38f2-5f406413175b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "553dc7bd-e209-d4ac-441c-4fea1ac3e2b3",
+            "attributes": {
+                "referenceName": "매일매일 세일 패키지",
+                "productId": "nanakr_normal_1tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/553dc7bd-e209-d4ac-441c-4fea1ac3e2b3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "dbc8c641-b9c8-71bd-5a13-21f61b86c1b6",
+            "attributes": {
+                "referenceName": "1주년 기념 스페셜 선택 패키지 I",
+                "productId": "nanakr_normal_1tier_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/dbc8c641-b9c8-71bd-5a13-21f61b86c1b6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5297ce6a-67c8-43ed-3681-36c733e5609c",
+            "attributes": {
+                "referenceName": "진 장비강화 패키지 III",
+                "productId": "nanakr_normal_1tier_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5297ce6a-67c8-43ed-3681-36c733e5609c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "feccc70e-da60-eb00-a6c0-d4b595e5f77a",
+            "attributes": {
+                "referenceName": "연말 특별 패키지Ⅰ",
+                "productId": "nanakr_normal_1tier_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/feccc70e-da60-eb00-a6c0-d4b595e5f77a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a8dba488-45aa-9fe4-d309-c8275b76818c",
+            "attributes": {
+                "referenceName": "넌 할 수 있어 패키지",
+                "productId": "nanakr_normal_1tier_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a8dba488-45aa-9fe4-d309-c8275b76818c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "e3e974a9-ef6b-de62-020b-e1663d40121c",
+            "attributes": {
+                "referenceName": "영웅 성장 특가 패키지",
+                "productId": "nanakr_normal_1tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/e3e974a9-ef6b-de62-020b-e1663d40121c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4e20f819-9293-de77-ff28-35e1d5333be1",
+            "attributes": {
+                "referenceName": "2000만 DL 대축제 페스 티켓 패키지",
+                "productId": "nanakr_normal_1tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4e20f819-9293-de77-ff28-35e1d5333be1"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "16da1711-98a0-2b52-72e8-23a202000944",
+            "attributes": {
+                "referenceName": "진 장비 패키지",
+                "productId": "nanakr_normal_4tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/16da1711-98a0-2b52-72e8-23a202000944"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "1a05c50b-dbc6-e329-03a6-ae703c07161f",
+            "attributes": {
+                "referenceName": "장비 강화 패키지 I",
+                "productId": "nanakr_normal_4tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/1a05c50b-dbc6-e329-03a6-ae703c07161f"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d18a7014-435e-fada-bae6-101b878e7c13",
+            "attributes": {
+                "referenceName": "맹공 장비 패키지 II",
+                "productId": "nanakr_normal_4tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d18a7014-435e-fada-bae6-101b878e7c13"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "34a5f10d-0cdd-b662-8298-88da4a51948f",
+            "attributes": {
+                "referenceName": "철벽 장비 패키지 II",
+                "productId": "nanakr_normal_4tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/34a5f10d-0cdd-b662-8298-88da4a51948f"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "1d0efbed-817a-d3e9-6867-5c6951882461",
+            "attributes": {
+                "referenceName": "생명 장비 패키지 II",
+                "productId": "nanakr_normal_4tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/1d0efbed-817a-d3e9-6867-5c6951882461"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "86b5e744-813e-9407-fefa-8038f56f7764",
+            "attributes": {
+                "referenceName": "행동력부스터 패키지",
+                "productId": "nanakr_normal_8tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/86b5e744-813e-9407-fefa-8038f56f7764"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2b2b3ab1-80cb-c9f3-f723-2d78b917df6b",
+            "attributes": {
+                "referenceName": "초 골드 패키지",
+                "productId": "nanakr_normal_8tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2b2b3ab1-80cb-c9f3-f723-2d78b917df6b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "f60b590d-0164-4491-b640-9e1a586e0da4",
+            "attributes": {
+                "referenceName": "초월 골드 패키지 II",
+                "productId": "nanakr_normal_8tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/f60b590d-0164-4491-b640-9e1a586e0da4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7e15d8b9-53f7-543a-20e6-0bbbd7bc8cd3",
+            "attributes": {
+                "referenceName": "장비 성장 패키지 I",
+                "productId": "nanakr_normal_8tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7e15d8b9-53f7-543a-20e6-0bbbd7bc8cd3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9e82e29a-8372-9d08-a5dd-246b908cfe35",
+            "attributes": {
+                "referenceName": "마신의 피 패키지",
+                "productId": "nanakr_normal_8tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9e82e29a-8372-9d08-a5dd-246b908cfe35"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "750d7233-29c7-008d-a0fa-d1882a5d6029",
+            "attributes": {
+                "referenceName": "「7대죄」  X 「전생슬」 콜라보 패키지",
+                "productId": "nanakr_normal_24tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/750d7233-29c7-008d-a0fa-d1882a5d6029"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "84eece68-d369-e32d-a543-2cf30cfcbde4",
+            "attributes": {
+                "referenceName": "엘레인 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/84eece68-d369-e32d-a543-2cf30cfcbde4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "f1f2578d-ca7a-24a0-1093-cf003c53f26d",
+            "attributes": {
+                "referenceName": "멜리오다스 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/f1f2578d-ca7a-24a0-1093-cf003c53f26d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ff8a3eef-03d4-15ec-d7f0-b45e75d23aee",
+            "attributes": {
+                "referenceName": "엘리자베스 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ff8a3eef-03d4-15ec-d7f0-b45e75d23aee"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "1eedbfac-93df-f81e-09d3-2568c5594169",
+            "attributes": {
+                "referenceName": "다이앤 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/1eedbfac-93df-f81e-09d3-2568c5594169"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2b61c076-ae0b-ef43-d3e0-3314a93886b5",
+            "attributes": {
+                "referenceName": "근력 초진화 패키지",
+                "productId": "nanakr_normal_40tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2b61c076-ae0b-ef43-d3e0-3314a93886b5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "972915d6-d3a5-2d17-f3e7-73f4816d85f5",
+            "attributes": {
+                "referenceName": "체력 초진화 패키지",
+                "productId": "nanakr_normal_40tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/972915d6-d3a5-2d17-f3e7-73f4816d85f5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3b06e39a-d0e0-b650-0c74-ba2dacd17ff6",
+            "attributes": {
+                "referenceName": "속력 초진화 패키지",
+                "productId": "nanakr_normal_40tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3b06e39a-d0e0-b650-0c74-ba2dacd17ff6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "efa81816-f4f3-67cd-aaef-de42aa28344a",
+            "attributes": {
+                "referenceName": "1주년 기념 스페셜 선택 패키지 II",
+                "productId": "nanakr_normal_40tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/efa81816-f4f3-67cd-aaef-de42aa28344a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "82b3fd04-ac67-c7d7-c017-575a720656db",
+            "attributes": {
+                "referenceName": "진 체력진화 패키지",
+                "productId": "nanakr_normal_40tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/82b3fd04-ac67-c7d7-c017-575a720656db"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b91cba80-df6b-daf9-252a-c22c90d6bff7",
+            "attributes": {
+                "referenceName": "생명 장비 패키지SSR",
+                "productId": "nanakr_normal_56tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b91cba80-df6b-daf9-252a-c22c90d6bff7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8d16d5dc-8fa3-a4e0-dd1c-fb8e9a85c7a1",
+            "attributes": {
+                "referenceName": "집중 장비 패키지SSR",
+                "productId": "nanakr_normal_56tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8d16d5dc-8fa3-a4e0-dd1c-fb8e9a85c7a1"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "237db6e9-5ad5-11a1-fe01-609c039fc728",
+            "attributes": {
+                "referenceName": "심안 장비 패키지SSR",
+                "productId": "nanakr_normal_56tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/237db6e9-5ad5-11a1-fe01-609c039fc728"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b19900c0-3022-e047-3fba-946debcb8aca",
+            "attributes": {
+                "referenceName": "회복 장비 패키지SSR",
+                "productId": "nanakr_normal_56tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b19900c0-3022-e047-3fba-946debcb8aca"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "719b215f-583a-9227-ceac-edde8130d8e2",
+            "attributes": {
+                "referenceName": "2000만 DL 대축제 다이아 패키지",
+                "productId": "nanakr_normal_56tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/719b215f-583a-9227-ceac-edde8130d8e2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "eee6a328-473b-15d6-889f-777780b2886b",
+            "attributes": {
+                "referenceName": "1주년 기념 스페셜 선택 패키지 III",
+                "productId": "nanakr_normal_56tier_011",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/eee6a328-473b-15d6-889f-777780b2886b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "31a9b10a-cade-e6b2-6054-40d4d7ebdf2c",
+            "attributes": {
+                "referenceName": "초 장비 패키지 II",
+                "productId": "nanakr_normal_56tier_012",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/31a9b10a-cade-e6b2-6054-40d4d7ebdf2c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "0e4990a8-f7d0-fd30-e4d7-3bf853f35fe2",
+            "attributes": {
+                "referenceName": "초 장비 패키지 III",
+                "productId": "nanakr_normal_56tier_013",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/0e4990a8-f7d0-fd30-e4d7-3bf853f35fe2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8ccf0193-656a-7e06-ded4-8394fbefc6a7",
+            "attributes": {
+                "referenceName": "초 장비 패키지 IV",
+                "productId": "nanakr_normal_56tier_014",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8ccf0193-656a-7e06-ded4-8394fbefc6a7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "87c5f59f-7f82-6a2c-1dde-fdbeabc434c3",
+            "attributes": {
+                "referenceName": "바이젤의 망치 패키지 II",
+                "productId": "nanakr_normal_56tier_015",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/87c5f59f-7f82-6a2c-1dde-fdbeabc434c3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "14cf38c4-90ac-17aa-364d-8c3e2316ddb5",
+            "attributes": {
+                "referenceName": "반 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_011",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/14cf38c4-90ac-17aa-364d-8c3e2316ddb5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2de60acc-1eef-9467-80b2-ad1065375ec2",
+            "attributes": {
+                "referenceName": "킹 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_012",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2de60acc-1eef-9467-80b2-ad1065375ec2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a0b13217-7d01-5d44-b95a-44efd3aec82d",
+            "attributes": {
+                "referenceName": "고서 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_013",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a0b13217-7d01-5d44-b95a-44efd3aec82d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bee3858b-ebe3-ea30-7177-4ccb098ca496",
+            "attributes": {
+                "referenceName": "멀린 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_014",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bee3858b-ebe3-ea30-7177-4ccb098ca496"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3865d7ca-35c8-c28e-957a-a19f4f762db0",
+            "attributes": {
+                "referenceName": "길라 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_015",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3865d7ca-35c8-c28e-957a-a19f4f762db0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9c58645a-5e6d-b377-5030-078332b00816",
+            "attributes": {
+                "referenceName": "제리코 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_016",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9c58645a-5e6d-b377-5030-078332b00816"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6cfb302e-f72d-0cc2-505e-aa4c8b2b7bef",
+            "attributes": {
+                "referenceName": "길선더 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_017",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/6cfb302e-f72d-0cc2-505e-aa4c8b2b7bef"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3590e2ac-00e6-4610-054b-03c999886cff",
+            "attributes": {
+                "referenceName": "하우저 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_018",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3590e2ac-00e6-4610-054b-03c999886cff"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "56482c36-7e1f-5c52-fd40-1e76fcfb93f0",
+            "attributes": {
+                "referenceName": "그리아모어 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_019",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/56482c36-7e1f-5c52-fd40-1e76fcfb93f0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "fd080994-ea9e-9660-afd7-c8735aef3cd9",
+            "attributes": {
+                "referenceName": "호크 패스 PLUS",
+                "productId": "nanajp_normal_24tier_020",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/fd080994-ea9e-9660-afd7-c8735aef3cd9"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4822d4b6-9cdf-f21c-bbf6-f439a1c441ac",
+            "attributes": {
+                "referenceName": "호크 패스",
+                "productId": "nanakr_normal_8tier_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4822d4b6-9cdf-f21c-bbf6-f439a1c441ac"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7853f34f-8946-c6bc-2c2e-44f852ab6d9b",
+            "attributes": {
+                "referenceName": "밀림 콜라보 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_021",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7853f34f-8946-c6bc-2c2e-44f852ab6d9b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "31910793-790b-189c-7d60-0d06cd17d9b9",
+            "attributes": {
+                "referenceName": "엘리자베스 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_022",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/31910793-790b-189c-7d60-0d06cd17d9b9"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d9aeb9b8-525c-8cdc-5ee4-b35c3ab2afdd",
+            "attributes": {
+                "referenceName": "다이앤 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_023",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d9aeb9b8-525c-8cdc-5ee4-b35c3ab2afdd"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a12c1d19-356b-ab64-2e8e-f213ab90194f",
+            "attributes": {
+                "referenceName": "리무루 콜라보 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_011",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a12c1d19-356b-ab64-2e8e-f213ab90194f"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "63425121-8e08-9b64-85c8-0e492e2414fa",
+            "attributes": {
+                "referenceName": "베니마루 콜라보 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_012",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/63425121-8e08-9b64-85c8-0e492e2414fa"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "10d24cd7-bec9-a4e0-1bbc-119ce8457dd4",
+            "attributes": {
+                "referenceName": "길라 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_013",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/10d24cd7-bec9-a4e0-1bbc-119ce8457dd4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "10bd672b-5251-2f07-7338-fd7d87f3f932",
+            "attributes": {
+                "referenceName": "제리코 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_014",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/10bd672b-5251-2f07-7338-fd7d87f3f932"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "36b90ad6-039a-c41b-82a0-4112e578888d",
+            "attributes": {
+                "referenceName": "길선더 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_015",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/36b90ad6-039a-c41b-82a0-4112e578888d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "f1ae7392-6c45-17b7-0a7b-2dbe892d4386",
+            "attributes": {
+                "referenceName": "하우저 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_016",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/f1ae7392-6c45-17b7-0a7b-2dbe892d4386"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "0de87618-fea8-6cce-6465-ee2af80b6c4c",
+            "attributes": {
+                "referenceName": "그리아모어 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_017",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/0de87618-fea8-6cce-6465-ee2af80b6c4c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "78174966-d79c-16c9-7a7b-d4f188f07857",
+            "attributes": {
+                "referenceName": "헨드릭슨 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_018",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/78174966-d79c-16c9-7a7b-d4f188f07857"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "000a7b46-bd62-d228-40c5-78493d441022",
+            "attributes": {
+                "referenceName": "드레퓌스 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_019",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/000a7b46-bd62-d228-40c5-78493d441022"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "84fbc945-3bd1-8339-66c6-9dfd5cc22dc2",
+            "attributes": {
+                "referenceName": "슬레이더 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_020",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/84fbc945-3bd1-8339-66c6-9dfd5cc22dc2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "518c6122-70b2-774f-f99a-b7eff17319fe",
+            "attributes": {
+                "referenceName": "멜리오다스 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_021",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/518c6122-70b2-774f-f99a-b7eff17319fe"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "59e5c4d1-e6c6-409e-a636-11f0ae0abcf3",
+            "attributes": {
+                "referenceName": "반 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_022",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/59e5c4d1-e6c6-409e-a636-11f0ae0abcf3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "91fd1c38-e392-09e9-8d39-107d3ae64341",
+            "attributes": {
+                "referenceName": "킹 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_023",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/91fd1c38-e392-09e9-8d39-107d3ae64341"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3d7afb4d-7be1-5027-118a-e5e0c7365db2",
+            "attributes": {
+                "referenceName": "고서 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_024",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3d7afb4d-7be1-5027-118a-e5e0c7365db2"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6584289d-0a03-60a4-da66-a2cd32ae0ce6",
+            "attributes": {
+                "referenceName": "멀린 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_025",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/6584289d-0a03-60a4-da66-a2cd32ae0ce6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5dc91b65-a09f-7094-af30-5c359d6e9d22",
+            "attributes": {
+                "referenceName": "싸움축제 챔피언 패키지",
+                "productId": "nanakr_normal_8tier_011",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5dc91b65-a09f-7094-af30-5c359d6e9d22"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ce79e3fc-f210-35b0-d8dc-0f36f11aa261",
+            "attributes": {
+                "referenceName": "엘레인 여름 숲 코스튬 패키지",
+                "productId": "nanakr_normal_24tier_024",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ce79e3fc-f210-35b0-d8dc-0f36f11aa261"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "fc584d52-9bf7-7553-49b8-8dd884eda6b1",
+            "attributes": {
+                "referenceName": "갈란 로맨스 그레이 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_026",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/fc584d52-9bf7-7553-49b8-8dd884eda6b1"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "fbddaa2d-24bd-ca20-2545-b575fe9ef805",
+            "attributes": {
+                "referenceName": "아서 의전용 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_027",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/fbddaa2d-24bd-ca20-2545-b575fe9ef805"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "339260c2-87f1-6bdc-8545-bc81d7019412",
+            "attributes": {
+                "referenceName": "플레이어 RANK UP 패키지 Ⅳ",
+                "productId": "nanakr_levelup_0004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/339260c2-87f1-6bdc-8545-bc81d7019412"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "f5544196-bd26-3738-2cfe-a1eb53e2d23e",
+            "attributes": {
+                "referenceName": "777만 DL 기념 웰컴 기프트 패키지",
+                "productId": "nanakr_normal_24tier_026",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/f5544196-bd26-3738-2cfe-a1eb53e2d23e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3ddbef22-1dc1-d5db-aa8f-693f247481e8",
+            "attributes": {
+                "referenceName": "아서 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_028",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3ddbef22-1dc1-d5db-aa8f-693f247481e8"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "643807ea-51b3-287b-0520-71d9a88d5f36",
+            "attributes": {
+                "referenceName": "헬브람 마술사 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_029",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/643807ea-51b3-287b-0520-71d9a88d5f36"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a0c0aa02-c162-e841-62b0-904103b92c36",
+            "attributes": {
+                "referenceName": "헬브람 요정 기사 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_030",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a0c0aa02-c162-e841-62b0-904103b92c36"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "03846590-6100-c64c-6dff-91ae124ab403",
+            "attributes": {
+                "referenceName": "행동력 주정액 패키지",
+                "productId": "nanakr_attendance_4tier_0001",
+                "inAppPurchaseType": "NON_RENEWING_SUBSCRIPTION",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/03846590-6100-c64c-6dff-91ae124ab403"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d3e4edf5-9e56-564a-20ec-dbdbaf63eb8e",
+            "attributes": {
+                "referenceName": "장비 각성 패키지(다이아X)",
+                "productId": "nanakr_normal_24tier_025",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d3e4edf5-9e56-564a-20ec-dbdbaf63eb8e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a5dc1060-8d99-6688-7e64-bcf12eb0c6df",
+            "attributes": {
+                "referenceName": "「선샤인(태양)」 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_027",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a5dc1060-8d99-6688-7e64-bcf12eb0c6df"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "12185381-3945-0bfb-f051-6038c7e8ab6b",
+            "attributes": {
+                "referenceName": "「창조(크리에이션)」 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_028",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/12185381-3945-0bfb-f051-6038c7e8ab6b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a67ffe89-5542-a989-dabb-1eec88ecb2a9",
+            "attributes": {
+                "referenceName": "골드 패키지",
+                "productId": "nanakr_normal_24tier_029",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a67ffe89-5542-a989-dabb-1eec88ecb2a9"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7b7e72be-dd89-fbde-748f-de3be05c78bd",
+            "attributes": {
+                "referenceName": "영웅 패키지(다이아X)",
+                "productId": "nanakr_normal_24tier_030",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7b7e72be-dd89-fbde-748f-de3be05c78bd"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5cbfb359-9628-4b7e-f6ac-947a2e88500f",
+            "attributes": {
+                "referenceName": "근력 진화 패키지(다이아X)",
+                "productId": "nanakr_normal_24tier_031",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5cbfb359-9628-4b7e-f6ac-947a2e88500f"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "38f52239-7e05-1412-894e-aed4eb52f874",
+            "attributes": {
+                "referenceName": "체력 진화 패키지(다이아X)",
+                "productId": "nanakr_normal_24tier_032",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/38f52239-7e05-1412-894e-aed4eb52f874"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4c8fd49e-8dd5-c36c-55b7-9cc7f458590b",
+            "attributes": {
+                "referenceName": "속력 진화 패키지(다이아X)",
+                "productId": "nanakr_normal_24tier_033",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4c8fd49e-8dd5-c36c-55b7-9cc7f458590b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a7ad0a34-a1bf-545d-8cc2-60476b4cf9f6",
+            "attributes": {
+                "referenceName": "초진화 패키지",
+                "productId": "nanakr_normal_24tier_034",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a7ad0a34-a1bf-545d-8cc2-60476b4cf9f6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "68e8e413-d9db-a5d8-f1fd-ee8d4b69dbb7",
+            "attributes": {
+                "referenceName": "에스카노르 검은 화염 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_031",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/68e8e413-d9db-a5d8-f1fd-ee8d4b69dbb7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "55a52655-f2c2-fa7a-b8ad-ee80cd4cee35",
+            "attributes": {
+                "referenceName": "에스카노르 단 하나의 태양 코스튬 패키지",
+                "productId": "nanakr_normal_40tier_032",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/55a52655-f2c2-fa7a-b8ad-ee80cd4cee35"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "42df4ca2-e6ba-401d-b981-ba41525d227c",
+            "attributes": {
+                "referenceName": "엘리자베스 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_11tier_014",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/42df4ca2-e6ba-401d-b981-ba41525d227c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a6d823b9-317e-4888-b9d6-884708caf33c",
+            "attributes": {
+                "referenceName": "반 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_11tier_015",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a6d823b9-317e-4888-b9d6-884708caf33c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d8a92bf9-d8aa-42ff-ae6b-50a7277c19c6",
+            "attributes": {
+                "referenceName": "킹 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d8a92bf9-d8aa-42ff-ae6b-50a7277c19c6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5372f9f8-67be-4df3-8a79-9c92822e16ce",
+            "attributes": {
+                "referenceName": "다이앤 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_002",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5372f9f8-67be-4df3-8a79-9c92822e16ce"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8514dda9-5298-43b3-a1d9-71168d5766f9",
+            "attributes": {
+                "referenceName": "헬브람 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_003",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8514dda9-5298-43b3-a1d9-71168d5766f9"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "09242873-37bd-4818-a32b-61052bbdda70",
+            "attributes": {
+                "referenceName": "슬레이더 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_004",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/09242873-37bd-4818-a32b-61052bbdda70"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3617859f-ab5a-49a4-8b42-d9459e7a502c",
+            "attributes": {
+                "referenceName": "고서 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_005",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3617859f-ab5a-49a4-8b42-d9459e7a502c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ddbdf25a-7ffc-4803-800d-5bf329585043",
+            "attributes": {
+                "referenceName": "멀린 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_006",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ddbdf25a-7ffc-4803-800d-5bf329585043"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "94b9f848-f60c-4bf9-9913-9c4f7583f1eb",
+            "attributes": {
+                "referenceName": "길선더 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_007",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/94b9f848-f60c-4bf9-9913-9c4f7583f1eb"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "845c617b-ddea-4943-912d-4c20b363584a",
+            "attributes": {
+                "referenceName": "그리아모어 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_008",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/845c617b-ddea-4943-912d-4c20b363584a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "71fc0de1-1519-4834-9698-48d45c449f11",
+            "attributes": {
+                "referenceName": "제리코 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_009",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/71fc0de1-1519-4834-9698-48d45c449f11"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7664a865-d6d6-4140-8e15-90f30b938b32",
+            "attributes": {
+                "referenceName": "하우저 할로윈 코스튬 세트",
+                "productId": "nanakr_normal_17tier_010",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7664a865-d6d6-4140-8e15-90f30b938b32"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "e3a0a9ba-86ff-43ea-b362-c9229f1581a5",
+            "attributes": {
+                "referenceName": "릴리아 흑막의 여인 코스튬 세트",
+                "productId": "nanakr_normal_17tier_011",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/e3a0a9ba-86ff-43ea-b362-c9229f1581a5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4619b727-9a0a-493d-b592-1abda050af7e",
+            "attributes": {
+                "referenceName": "릴리아 각성의 흔적 코스튬 세트",
+                "productId": "nanakr_normal_17tier_012",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4619b727-9a0a-493d-b592-1abda050af7e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "61c25503-f5f5-49ce-bcb3-26cd469966fa",
+            "attributes": {
+                "referenceName": "릴리아 유혹의 몽마 코스튬 세트",
+                "productId": "nanakr_normal_17tier_013",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/61c25503-f5f5-49ce-bcb3-26cd469966fa"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9e1a31de-38e1-437e-9d9a-0ed5ce95a26e",
+            "attributes": {
+                "referenceName": "【할로윈】 단장 멜리오다스 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_035",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9e1a31de-38e1-437e-9d9a-0ed5ce95a26e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "3fe4e628-0f04-4483-972a-d6cc40f78895",
+            "attributes": {
+                "referenceName": "【할로윈】 수호자 길라 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_036",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/3fe4e628-0f04-4483-972a-d6cc40f78895"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "17662222-1b44-4ce0-bf02-2bbb3a3ff097",
+            "attributes": {
+                "referenceName": "【할로윈】 수호자 엘레인 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_037",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/17662222-1b44-4ce0-bf02-2bbb3a3ff097"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "806acb48-22b4-4f5d-ab36-bceceb0ae4eb",
+            "attributes": {
+                "referenceName": "멜리오다스 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_014",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/806acb48-22b4-4f5d-ab36-bceceb0ae4eb"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "708fcac2-d9e8-4c2f-b533-5a512512e232",
+            "attributes": {
+                "referenceName": "멀린 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_015",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/708fcac2-d9e8-4c2f-b533-5a512512e232"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bee6ee80-63b8-447d-b65f-c05e06c9349b",
+            "attributes": {
+                "referenceName": "에스카노르 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_016",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bee6ee80-63b8-447d-b65f-c05e06c9349b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "31a59f14-efd3-425d-a7c7-8ecd32325e0e",
+            "attributes": {
+                "referenceName": "다이앤 검은 화염의 전투 제복 세트_복각",
+                "productId": "nanakr_normal_17tier_021",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/31a59f14-efd3-425d-a7c7-8ecd32325e0e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ac1c8778-dd43-4d64-b983-bc73fd73baf6",
+            "attributes": {
+                "referenceName": "몬스피트의 순결한 양장 세트",
+                "productId": "nanakr_normal_17tier_022",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ac1c8778-dd43-4d64-b983-bc73fd73baf6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "42dd3a20-2213-4232-b05e-8785d8873709",
+            "attributes": {
+                "referenceName": "데스피어스의 맹세의 갑옷 세트",
+                "productId": "nanakr_normal_17tier_023",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/42dd3a20-2213-4232-b05e-8785d8873709"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6075151c-90d8-4a8e-810e-64416cbb3fe5",
+            "attributes": {
+                "referenceName": "도겟의 펑크족 의상 세트",
+                "productId": "nanakr_normal_17tier_024",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/6075151c-90d8-4a8e-810e-64416cbb3fe5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8f9f5c23-089a-4e3b-9a00-a493facb91d4",
+            "attributes": {
+                "referenceName": "【분노의 기사】 마신 멜리오다스 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_038",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8f9f5c23-089a-4e3b-9a00-a493facb91d4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a519020d-836d-4778-831e-7cca6397c465",
+            "attributes": {
+                "referenceName": "<십계> 「신앙」의 메라스큘라 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_039",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a519020d-836d-4778-831e-7cca6397c465"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a735c01c-11c2-44f3-91b8-cc32dffe9425",
+            "attributes": {
+                "referenceName": "<십계> 「침묵」의 몬스피트 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_040",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a735c01c-11c2-44f3-91b8-cc32dffe9425"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4cbcafa8-f5f0-4832-8e00-ce78ecc0e753",
+            "attributes": {
+                "referenceName": "다이앤 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_017",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4cbcafa8-f5f0-4832-8e00-ce78ecc0e753"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2627a444-ce31-4802-adc7-cbe5fd1a02e5",
+            "attributes": {
+                "referenceName": "반 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_018",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2627a444-ce31-4802-adc7-cbe5fd1a02e5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "0baac0d7-1d91-4116-9c72-b31dc367b53e",
+            "attributes": {
+                "referenceName": "킹 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_019",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/0baac0d7-1d91-4116-9c72-b31dc367b53e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "21f2b87a-4943-48d4-970d-5a99959dbb94",
+            "attributes": {
+                "referenceName": "고서 최흉의 기사단 코스튬 세트",
+                "productId": "nanakr_normal_17tier_020",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/21f2b87a-4943-48d4-970d-5a99959dbb94"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "66d01b9d-c91d-4cb6-ab8d-aad93d388f6a",
+            "attributes": {
+                "referenceName": "「디재스터(재액)」 아저씨 킹 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_041",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/66d01b9d-c91d-4cb6-ab8d-aad93d388f6a"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "812b378f-24af-4c2e-a7fb-9d153562dd79",
+            "attributes": {
+                "referenceName": "발렌티 불꽃의 정령 세트",
+                "productId": "nanakr_normal_17tier_025",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/812b378f-24af-4c2e-a7fb-9d153562dd79"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7714a100-446b-4dea-a343-99d43d56e869",
+            "attributes": {
+                "referenceName": "발렌티 32호기 조종사복 세트",
+                "productId": "nanakr_normal_17tier_026",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7714a100-446b-4dea-a343-99d43d56e869"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "04cd3f0e-e342-43be-b63f-5fb38814f753",
+            "attributes": {
+                "referenceName": "하프 애니버서리 기념 패키지",
+                "productId": "nanakr_normal_10tier_001",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/04cd3f0e-e342-43be-b63f-5fb38814f753"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7d6de76f-47c1-471f-8397-58c59ba05a7e",
+            "attributes": {
+                "referenceName": "엘리자베스 해변 코스튬 세트",
+                "productId": "nanakr_normal_17tier_027",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7d6de76f-47c1-471f-8397-58c59ba05a7e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "7410459d-b5af-40ed-ace5-5fe6c30b8849",
+            "attributes": {
+                "referenceName": "킹 해변 코스튬 세트",
+                "productId": "nanakr_normal_17tier_028",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/7410459d-b5af-40ed-ace5-5fe6c30b8849"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ac7776e9-6afc-4969-aff4-a11ea57b05d0",
+            "attributes": {
+                "referenceName": "고서 해변 코스튬 세트",
+                "productId": "nanakr_normal_17tier_029",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ac7776e9-6afc-4969-aff4-a11ea57b05d0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "1aee8cc2-a794-4544-8682-ac49f8eb53a8",
+            "attributes": {
+                "referenceName": "멀린 해변 코스튬 세트",
+                "productId": "nanakr_normal_17tier_030",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/1aee8cc2-a794-4544-8682-ac49f8eb53a8"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "477d2cf9-4544-4053-b316-b57432bd5544",
+            "attributes": {
+                "referenceName": "제리코 성기사 갑옷 코스튬 세트",
+                "productId": "nanakr_normal_17tier_031",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/477d2cf9-4544-4053-b316-b57432bd5544"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8d69a380-12ad-4027-8eef-5595c2d71079",
+            "attributes": {
+                "referenceName": "길선더 성기사 갑옷 코스튬 세트",
+                "productId": "nanakr_normal_17tier_032",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8d69a380-12ad-4027-8eef-5595c2d71079"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "14f37b3d-63aa-4d95-b937-ae6d3fcc8437",
+            "attributes": {
+                "referenceName": "하우저 성기사 갑옷 코스튬 세트",
+                "productId": "nanakr_normal_17tier_033",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/14f37b3d-63aa-4d95-b937-ae6d3fcc8437"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4775e947-9950-499d-97ae-96909d2ffe0e",
+            "attributes": {
+                "referenceName": "슬레이더 성기사 갑옷 코스튬 세트",
+                "productId": "nanakr_normal_17tier_034",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4775e947-9950-499d-97ae-96909d2ffe0e"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "dc48ddb8-d1d9-42d4-8acc-be3e632e59a6",
+            "attributes": {
+                "referenceName": "멜리오다스 검은 화염 코스튬 세트",
+                "productId": "nanakr_normal_17tier_035",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/dc48ddb8-d1d9-42d4-8acc-be3e632e59a6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "6a59d96e-a538-41c2-9837-a8a12a1bc9c0",
+            "attributes": {
+                "referenceName": "멀린 검은 화염 코스튬 세트",
+                "productId": "nanakr_normal_17tier_036",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/6a59d96e-a538-41c2-9837-a8a12a1bc9c0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "65b2bc6f-4800-4a96-ba16-5ca511c8e0c3",
+            "attributes": {
+                "referenceName": "에스카노르 검은 화염 코스튬 세트",
+                "productId": "nanakr_normal_17tier_037",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/65b2bc6f-4800-4a96-ba16-5ca511c8e0c3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b1710ea1-b939-46e9-97b3-6c3b084fb36c",
+            "attributes": {
+                "referenceName": "글록시니아 행복한 꽃의 요정 코스튬 세트",
+                "productId": "nanakr_normal_17tier_038",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b1710ea1-b939-46e9-97b3-6c3b084fb36c"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "188a37b6-765a-4089-8c1b-2dbbd154a546",
+            "attributes": {
+                "referenceName": "<십계>「안식」의 글록시니아 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_042",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/188a37b6-765a-4089-8c1b-2dbbd154a546"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ecded27a-2446-47f6-9de6-838e4fe6f4c7",
+            "attributes": {
+                "referenceName": "「인피니티」 대마술사 멀린 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_043",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ecded27a-2446-47f6-9de6-838e4fe6f4c7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "aa54c741-659d-44d2-b53d-29c541a8d359",
+            "attributes": {
+                "referenceName": "<일곱 개의 대죄> 성기사 다이앤 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_044",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/aa54c741-659d-44d2-b53d-29c541a8d359"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "afcf0bd4-8524-4664-a99c-8be6d652496f",
+            "attributes": {
+                "referenceName": "【에일 콜렉터】 모험가 반 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_045",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/afcf0bd4-8524-4664-a99c-8be6d652496f"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ae49bf32-507c-4b34-8625-c02d9469d5b3",
+            "attributes": {
+                "referenceName": "새해 기념 SSR 확정 패키지",
+                "productId": "nanakr_normal_24tier_046",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ae49bf32-507c-4b34-8625-c02d9469d5b3"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "8072bcbe-1a14-445a-a1a9-48f379a7d886",
+            "attributes": {
+                "referenceName": "새해 스페셜 복주머니【은】",
+                "productId": "nanakr_normal_24tier_047",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/8072bcbe-1a14-445a-a1a9-48f379a7d886"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5a5a2943-cdc4-4916-8b3b-a218e9c12bca",
+            "attributes": {
+                "referenceName": "에스카노르 푸른 눈꽃의 위엄 코스튬 세트",
+                "productId": "nanakr_normal_17tier_045",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5a5a2943-cdc4-4916-8b3b-a218e9c12bca"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4966f5d9-93c7-44e7-9a59-18f364a00b45",
+            "attributes": {
+                "referenceName": "연말 특별 패키지Ⅲ",
+                "productId": "nanakr_normal_8tier_012",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4966f5d9-93c7-44e7-9a59-18f364a00b45"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5997502a-d867-49f7-a51c-ebc52f2253d5",
+            "attributes": {
+                "referenceName": "새해 스페셜 복주머니【금】",
+                "productId": "nanakr_normal_40tier_033",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5997502a-d867-49f7-a51c-ebc52f2253d5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a31a461b-45f7-4437-b1d4-43966c1cafdf",
+            "attributes": {
+                "referenceName": "새해 스페셜 복주머니【동】",
+                "productId": "nanakr_normal_8tier_013",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a31a461b-45f7-4437-b1d4-43966c1cafdf"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "95b6ef4e-278a-437f-91ef-5ba2317687e0",
+            "attributes": {
+                "referenceName": "【새로운 신화】 마신 멜리오다스 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_049",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/95b6ef4e-278a-437f-91ef-5ba2317687e0"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "4821fca3-1c52-4a7a-8197-04762986d615",
+            "attributes": {
+                "referenceName": "【새로운 신화】 왕녀 엘리자베스 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_050",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/4821fca3-1c52-4a7a-8197-04762986d615"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "41ce7558-33dd-4704-a9e3-1a196eda3a51",
+            "attributes": {
+                "referenceName": "【새로운 신화】 수호자 제리코 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_051",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/41ce7558-33dd-4704-a9e3-1a196eda3a51"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "ab3c55f7-848b-4113-8770-ae948278d065",
+            "attributes": {
+                "referenceName": "엘라테 천익인의 예복 코스튬 세트",
+                "productId": "nanakr_normal_17tier_039",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/ab3c55f7-848b-4113-8770-ae948278d065"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "102af0a5-0abc-407a-a145-e734513d213d",
+            "attributes": {
+                "referenceName": "갈란 레드 코트 코스튬 세트",
+                "productId": "nanakr_normal_17tier_040",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/102af0a5-0abc-407a-a145-e734513d213d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "a7c81059-4f00-4c80-b85b-22497180797d",
+            "attributes": {
+                "referenceName": "몬스피트 레드 자켓 코스튬 세트",
+                "productId": "nanakr_normal_17tier_041",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/a7c81059-4f00-4c80-b85b-22497180797d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "bfa2d034-fe89-44cf-853e-aaed6d12128d",
+            "attributes": {
+                "referenceName": "메라스큘라 레드 바디수트 코스튬 세트",
+                "productId": "nanakr_normal_17tier_042",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/bfa2d034-fe89-44cf-853e-aaed6d12128d"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b24860a3-d0a6-4bfd-8728-adef0fbfc0e9",
+            "attributes": {
+                "referenceName": "글록시니아 그린 코트 코스튬 세트",
+                "productId": "nanakr_normal_17tier_043",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b24860a3-d0a6-4bfd-8728-adef0fbfc0e9"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "52886301-5499-4cb2-a9d7-9228d73fc0c5",
+            "attributes": {
+                "referenceName": "멀린 푸른 눈꽃의 비밀 코스튬 세트",
+                "productId": "nanakr_normal_17tier_044",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/52886301-5499-4cb2-a9d7-9228d73fc0c5"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "5b300550-15d6-4de3-b6db-5a701ab84177",
+            "attributes": {
+                "referenceName": "<교만의 죄(라이온 씬)> 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_048",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/5b300550-15d6-4de3-b6db-5a701ab84177"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "9e085b7e-3b15-4428-a2ce-51f4d01b92a6",
+            "attributes": {
+                "referenceName": "연말 특별 패키지Ⅱ",
+                "productId": "nanakr_normal_56tier_016",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/9e085b7e-3b15-4428-a2ce-51f4d01b92a6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "35c8f4e0-fbe7-4db2-ab8e-cf9b4ca4c984",
+            "attributes": {
+                "referenceName": "벨리온 강한 마력의 제복 코스튬 세트",
+                "productId": "nanakr_normal_17tier_047",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/35c8f4e0-fbe7-4db2-ab8e-cf9b4ca4c984"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "737ca9b5-853c-41d9-b598-856b3623ea95",
+            "attributes": {
+                "referenceName": "【할리퀸】 요정왕 킹 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_052",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/737ca9b5-853c-41d9-b598-856b3623ea95"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "e0c9716a-8632-444d-9786-e815e28b51b6",
+            "attributes": {
+                "referenceName": "[복각]헨드릭슨 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_17tier_048",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/e0c9716a-8632-444d-9786-e815e28b51b6"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2a112066-3e00-4f1a-8f2e-76ec15268797",
+            "attributes": {
+                "referenceName": "[복각] 드레퓌스 성기사 갑옷 코스튬 패키지",
+                "productId": "nanakr_normal_17tier_049",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2a112066-3e00-4f1a-8f2e-76ec15268797"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "2b9d56e1-ba20-41f5-b034-057436c867e4",
+            "attributes": {
+                "referenceName": "<십계>「자애」의 에스타롯사 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_054",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/2b9d56e1-ba20-41f5-b034-057436c867e4"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "16422a1a-78d6-4c17-929f-e5ac431ab283",
+            "attributes": {
+                "referenceName": "【마신족의 정예】「자애」의 에스타롯사 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_055",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/16422a1a-78d6-4c17-929f-e5ac431ab283"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "495954b9-a709-4b10-91d2-d822fe76eba1",
+            "attributes": {
+                "referenceName": "코스튬 강화 패키지",
+                "productId": "nanakr_normal_24tier_059",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/495954b9-a709-4b10-91d2-d822fe76eba1"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "b40e8188-b90a-4ca6-a524-b3d38bfc04b8",
+            "attributes": {
+                "referenceName": "에스타롯사 백전노장 제복 코스튬 세트",
+                "productId": "nanakr_normal_17tier_050",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/b40e8188-b90a-4ca6-a524-b3d38bfc04b8"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "d5a2cb56-719f-4ece-9362-fd4186b0bac7",
+            "attributes": {
+                "referenceName": "발렌타인 SSR 확정 패키지",
+                "productId": "nanakr_normal_24tier_053",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/d5a2cb56-719f-4ece-9362-fd4186b0bac7"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "33aad191-5110-4081-ae67-d18ae3f5ec1b",
+            "attributes": {
+                "referenceName": "【달콤한 유혹】드루이드 젠나 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_056",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/33aad191-5110-4081-ae67-d18ae3f5ec1b"
+            }
+        },
+        {
+            "type": "inAppPurchases",
+            "id": "1c2e6573-6ac7-425a-b17a-419a61dbd5df",
+            "attributes": {
+                "referenceName": "【달콤한 유혹】드루이드 자네리 풀 각성 패키지",
+                "productId": "nanakr_normal_24tier_057",
+                "inAppPurchaseType": "CONSUMABLE",
+                "state": "APPROVED"
+            },
+            "links": {
+                "self": "https://api.appstoreconnect.apple.com/v1/inAppPurchases/1c2e6573-6ac7-425a-b17a-419a61dbd5df"
+            }
+        }
+    ],
+    "links": {
+        "self": "https://api.appstoreconnect.apple.com/v1/apps/1449552940/inAppPurchases?limit=200",
+        "next": "https://api.appstoreconnect.apple.com/v1/apps/1449552940/inAppPurchases?cursor=AMg.AM76C74&limit=200"
+    },
+    "meta": {
+        "paging": {
+            "total": 413,
+            "limit": 200
+        }
+    }
+}
